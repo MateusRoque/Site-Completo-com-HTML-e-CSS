@@ -218,4 +218,56 @@
   .paragraph-sociais {
     text-align: center;
   }
+  @media (max-width: 320px) {
+  .container-header {
+    padding: 10px;
+  }
+  .container-contato {
+    gap: 5px;
+    height: 100%;
+  }
+  .submit-orcamento {
+    width: 80%;
+  }
+  .card-container {
+    gap: 5px;
+  }
+  .card {
+    width: 80%;
+    padding: 10px;
+  }
+  .title-card {
+    font-size: 20px;
+  }
+  .title-projeto {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  video {
+    width: 100px;
+  }
+  .info-container {
+    flex-wrap: wrap;
+    display: flex;
+    height: 100%;
+  }
+  .text-about {
+    height: 100%;
+  }
+  .img-eng {
+    display: none;
+  }
+  .doubts-container {
+    height: 100%;
+  }
+  .sec-doubts {
+    width: 100%;
+    height: 100%;
+  }
+  .email {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
 }
