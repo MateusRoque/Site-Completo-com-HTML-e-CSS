@@ -226,6 +226,7 @@
   .container-contato {
     gap: 5px;
     height: 100%;
+    background-color: "blue";
   }
   .submit-orcamento {
     width: 80%;
