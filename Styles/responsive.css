@@ -221,6 +221,7 @@
   @media (max-width: 320px) {
   .container-header {
     padding: 10px;
+    background-color: red;
   }
   .container-contato {
     gap: 5px;
